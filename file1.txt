@@ -1,0 +1,1 @@
+These are some additions that does not correspond to a issue. These will serve as simple pull requests.
