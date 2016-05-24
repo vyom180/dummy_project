@@ -1,1 +1,1 @@
-Adding angular.js in the front end.
+Adding angular.js in the front end.Adding additional headers in request response.
