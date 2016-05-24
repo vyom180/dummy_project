@@ -1,1 +1,2 @@
 Fixing a bug for now !
+Fixed black screen appearing on project bootstrap.
